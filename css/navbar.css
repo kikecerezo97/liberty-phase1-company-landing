@@ -1,0 +1,10 @@
+.navbar-dark{
+    background-color: rgb(0,0,0);
+
+}
+.nav-link{
+    font-family: Trebuchet MS, Verdana, Arial;
+    font-weight: 500;
+    font-size: 20px;
+    color: white!important;
+}

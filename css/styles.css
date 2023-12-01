@@ -1,0 +1,54 @@
+.hero{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    color: white;
+    padding-bottom: 5%;
+    background-color: rgb(33,31,28	);
+    color: #00f5d0;
+}
+
+.hero .btn-outline-success{
+    color: #00f5d0;
+    border-color: #00f5d0;
+}
+
+.hero .btn-outline-success:hover{
+    color: white;
+    border-color: #00f5d0;
+    background-color: #00f5d0;
+}
+
+
+
+/* styles services */
+.services{
+    margin-top: 25px;
+    margin-bottom: 25px
+;
+}
+
+.card > img {
+    height: 230px;
+    object-fit:scale-down;
+}
+
+/* styles about*/
+.about{
+    font-family: Trebuchet MS, Verdana, Arial;
+    font-weight: 200;
+    text-align: justify-all;
+}
+
+/* styles footer */
+footer{
+    background-color: rgb(36,36,36	);
+    color: white;
+}
+footer img{
+    max-height: 55px;
+}
+footer .text-muted{
+    margin-top: 5px;
+    font-size: 15px;
+}
